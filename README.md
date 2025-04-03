@@ -1,5 +1,5 @@
 # Frontend for the ProjectManager Web Application
-The ProjectManager Applications is a Web Application that store projects for different users. The projects also support the addition of specific tasks. The Application has complete User Registration and Authentification with JWT. All the Data is stored inside of an SQL Database that is connected to the Frontend using an API created using ASP.NET.
+The ProjectManager Applications is a Web Application that stores projects for different users. The projects also support the addition of specific tasks. The Application has complete User Registration and Authentification with JWT. All the Data is stored inside of an SQL Database that is connected to the Frontend using an API created using ASP.NET.
 
 This is the Frontend for the ProjectManager Web Application. This Frontend contains the full user interface and all the connections to the API.
 
