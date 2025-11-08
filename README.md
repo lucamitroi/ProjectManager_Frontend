@@ -9,7 +9,7 @@ This is the Frontend for the ProjectManager Web Application. This Frontend conta
 4. Run the command 'npm run dev' to start the API.
 
 ## Screenshots
-### Full User Registration and Authenrification using JWT
+### Full User Registration and Authentification using JWT
 ![image](https://github.com/user-attachments/assets/79b32fab-9eef-4a64-926f-6edca2efe485)
 
 ### User Dashboard
